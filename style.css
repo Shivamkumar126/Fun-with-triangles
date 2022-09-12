@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+
+:root{
+    --primary-color:#34d399
+}
+
+body{
+    font-family: 'Open Sans', sans-ser;
+    margin:0px;  
+    background-color: antiquewhite;
+    padding: 1rem;
+    text-align: center;
+}
+button{
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.navigation{
+    display: inline;
+}
+
+ .link{
+    text-decoration: none;
+    padding: 1rem;
+    
+}
+#is-triangle-button{
+    text-align: center;
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+#output{
+    text-align: center;
+}
